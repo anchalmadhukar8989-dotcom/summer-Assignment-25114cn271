@@ -1,4 +1,4 @@
-//WRITE A PROGRAM TP PRINT ARMSTRONG NUMBERS IN A RANGE.//
+//WRITE A PROGRAM TO PRINT ARMSTRONG NUMBERS IN A RANGE.//
 #include<stdio.h>
 #include<math.h>
 int main(){
